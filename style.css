@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 100vh;
+    background-image: url(./assets/city.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
